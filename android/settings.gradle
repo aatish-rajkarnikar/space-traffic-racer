@@ -1,0 +1,3 @@
+rootProject.name = 'space_travel'
+
+include ':app'
